@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: "Gilroy";
-  src: url("fonts/Gilroy-Semibold.ttf");
+  src: url("../fonts/Gilroy-Semibold.ttf");
 }
 @font-face {
   font-family: "Merriweather";
-  src: url("fonts/Merriweather-Black.ttf");
+  src: url("../fonts/Merriweather-Black.ttf");
 }
 
 body {
@@ -223,7 +223,7 @@ body {
 }
 
 .product-item-text {
-  font-size: 10px;
+  font-size: 16px;
   line-height: 140%;
   margin-bottom: 24px;
 }
